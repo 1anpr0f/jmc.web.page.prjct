@@ -1,0 +1,5 @@
+body {
+    background-color: black;
+    transition: background 4s ease;
+    color:white;
+}
